@@ -1,0 +1,19 @@
+Eclipsed Dreamer
+Patch notes
+
+V1.01
+After some feedback from Loosemind, some stuff has changed!
+
+-Released Eclipsed Dreamer open beta to Loosemind server!!!
+-Title screen music has been changed to a different placeholder
+-Running segment in the beginning has been changed to be shorter
+-Every "living" thing has it's health been lowered
+-All attacks has been lowered
+-Title screen has been changed for the time being
+-Added a whole bunch of easter eggs in the naming your player (find them out for your self!)
+
+
+
+v1.00
+
+-Released Eclipsed Dreamer private beta to Loosemind crew!
