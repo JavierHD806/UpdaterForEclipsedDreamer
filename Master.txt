@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/patchnotes.txt 
+/patchnotes.txt https://raw.githubusercontent.com/JavierHD806/UpdaterForEclipsedDreamer/master/patchnotes.txt
 <End of Version>
